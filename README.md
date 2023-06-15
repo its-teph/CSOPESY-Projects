@@ -1,3 +1,6 @@
-# Process-Synchronization
-This program implements Process Synchronization in Python
+# Operating System Projects
+
+This project are all implemented in Python
+
+
 
